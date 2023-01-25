@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ferdiann</h1>
+<h1 align="center">Hi 👋, I'm Ferdian</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frdnhmrf&label=Profile%20views&color=0e75b6&style=flat" alt="frdnhmrf" /> </p>
 
