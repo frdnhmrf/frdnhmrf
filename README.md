@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ferdian</h1>
 
 # 💫 About Me:
-👨‍🎓 I'm currently learning Flutter<br>👨🏻‍💻 Never stop learning 
+👨‍🎓 I'm currently learning Flutter
+<br>
+👨🏻‍💻 Data Enthusiast
+<br>
+👨🏻‍💻 Never stop learning 
 
 
 ## Socials:
